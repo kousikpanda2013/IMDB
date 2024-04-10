@@ -257,7 +257,7 @@ async function showMovieDetails(itemId, searchInput) {
                 </div>
                 <div class="new-search-input">
                     <form onkeyup="showMovieList()">
-                        <input id="search-input" type="text" placeholder="Search food, receipe" />
+                        <input id="search-input" type="text" placeholder="Search a Movie" />
                     </form>
                 </div>
             </div>
